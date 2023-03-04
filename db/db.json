@@ -1,0 +1,20 @@
+{
+  "queries": [
+
+    {
+      "email": "abc@gmail.com",
+      "query": "yed zavya",
+      "id": 4
+    },
+    {
+      "email": "ap@pawar.com",
+      "query": "hello AP",
+      "id": 5
+    },
+    {
+      "email": "ap@pawar.com",
+      "query": "hello AP",
+      "id": 6
+    }
+  ]
+}
