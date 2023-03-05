@@ -115,26 +115,26 @@ latest tools and techniques in the field of software development.
         <h2 class="w3-text-grey w3-padding-16"><i class="fa fa-suitcase fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>Projects</h2>
         <div class="w3-container">
           <h5 class="w3-opacity"><b>Air Quality Index Analysis</b></h5>
-          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Jan 2015 - July 2015</h6>
+          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Jan 2022 - Feb 2022</h6>
           <p>The main objective of this work is to analyze the AQI of different regions across India and compare them using suitable statistical tools.
 </p>
           <hr>
         </div>
         <div class="w3-container">
           <h5 class="w3-opacity"><b>Library Management System</b></h5>
-          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Mar 2012 - Dec 2014</h6>
+          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Mar 2022 - July 2022</h6>
           <p>A library management system is software that is designed to manage all the functions of a library. It helps librarian to maintain the database of new
 books and the books that are borrowed by members along with their due dates. This system completely automates all your library's activities.</p>
           <hr>
         </div>
         <div class="w3-container">
           <h5 class="w3-opacity"><b>Image Processing Miniproject</b></h5>
-          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Mar 2012 - Dec 2014</h6>
+          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Nov 2022 - Dec 2022</h6>
           <hr>
         </div>
         <div class="w3-container">
           <h5 class="w3-opacity"><b>Student Management System</b></h5>
-          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Jun 2010 - Mar 2012</h6>
+          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Dec 2022 - Feb 2023</h6>
           <p> </p><br>
         </div>
       </div>
