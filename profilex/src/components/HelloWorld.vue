@@ -218,7 +218,7 @@ books and the books that are borrowed by members along with their due dates. Thi
   <i class="fa fa-facebook-official w3-hover-opacity">:pawarajit2209 &emsp;</i>
   <i class="fa fa-instagram w3-hover-opacity">:__ajitpawar0122__
  &emsp;</i>
-  <i class="fa fa-twitter w3-hover-opacity">:bittertweet8 </i>
+  <i class="fa fa-twitter w3-hover-opacity">:bittertweet </i>
 
 
   <h1 style="font-size:15px "><i class="fa fa-rocket" style="font-size:24px"></i>&ensp;Created by ApTec</h1>
