@@ -3,7 +3,7 @@
 
 <html>
 <head>
-<title>Ajit Ramesh Pawar</title>
+<title>Ajit Pawar</title>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
@@ -25,10 +25,11 @@
       <div class="w3-white w3-text-grey w3-card-4">
         <br/>
         <div class="w3-display-container">
-          <img src="w.jpg" style="width:75%" alt="Avatar">
+
+          <img src="../components/a.jpeg" style="width:50%" />
           <br/><br/><br/><br/>
           <div class="w3-display-bottomleft w3-container w3-text-black">
-            <h2>Ajit Pawar</h2>
+            <h2>&emsp;&emsp;&emsp;Ajit Ramesh Pawar</h2>
           </div>
         </div>
         <div class="w3-container">
@@ -92,7 +93,7 @@ latest tools and techniques in the field of software development.
         <div class="w3-container">
           <h5 class="w3-opacity"><b>MIT WPU, Pune</b></h5>
           <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>2020-2024</h6>
-          <p>b-Tech Computer Science</p>
+          <p>B-Tech Computer Science</p>
           <hr>
         </div>
         <div class="w3-container">
@@ -213,12 +214,15 @@ books and the books that are borrowed by members along with their due dates. Thi
 
 </div>
   <p style="color:black; background-color:teal;">Find me on social media.</p>
-  <i class="fa fa-linkedin w3-hover-opacity ">:AjitPawar_7 &emsp;</i>
+  <i class="fa fa-linkedin w3-hover-opacity ">:Ajit Pawar &emsp;</i>
   <i class="fa fa-facebook-official w3-hover-opacity">:pawarajit2209 &emsp;</i>
-  <i class="fa fa-instagram w3-hover-opacity">:pawarajit0122 &emsp;</i>
+  <i class="fa fa-instagram w3-hover-opacity">:__ajitpawar0122__
+ &emsp;</i>
   <i class="fa fa-twitter w3-hover-opacity">:bittertweet8 </i>
 
-  <p>Created by ApTech</p>
+
+  <h1 style="font-size:15px "><i class="fa fa-rocket" style="font-size:24px"></i>&ensp;Created by ApTec</h1>
+
 </footer>
 
 </body>
