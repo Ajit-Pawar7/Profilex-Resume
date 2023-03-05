@@ -214,11 +214,11 @@ books and the books that are borrowed by members along with their due dates. Thi
 
 </div>
   <p style="color:black; background-color:teal;">Find me on social media.</p>
-  <i class="fa fa-linkedin w3-hover-opacity ">:Ajit Pawar &emsp;</i>
-  <i class="fa fa-facebook-official w3-hover-opacity">:Ajit-Pawar7 &emsp;</i>
-  <i class="fa fa-instagram w3-hover-opacity">:__ajitpawar0122__
+  <i class="fa fa-linkedin w3-hover-opacity ">: Ajit Pawar &emsp;</i>
+  <i class="fa fa-facebook-official w3-hover-opacity">: Ajit-Pawar7 &emsp;</i>
+  <i class="fa fa-instagram w3-hover-opacity">: __ajitpawar0122__
  &emsp;</i>
-  <i class="fa fa-twitter w3-hover-opacity">:bittertweet </i>
+  <i class="fa fa-twitter w3-hover-opacity">: bittertweet </i>
 
 
   <h1 style="font-size:15px "><i class="fa fa-rocket" style="font-size:24px"></i>&ensp;Created by ApTec</h1>
